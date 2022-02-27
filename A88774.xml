@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The latest remarkable truths from Worcester, Chester, Salop, Warwick, Stafford, Somerset, Devon, Yorke, and Lincoln counties. Most of which was sent up poste from judicious men, of purpose to be printed. Among other things there is a cruell and bloody speech of the Lord Paulets, which he spake to his fellow souldiers in Sherbourne the 7. of September, wherein he gives them order to kill men, women, and children, without mercie, but to reserve such ministers as they could take that were well-wishers to the Parliament, for to be flead alive, and such like exquisite torments.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88774</idno>
+            <idno type="STC">Wing L566</idno>
+            <idno type="STC">Thomason E119_5</idno>
+            <idno type="STC">ESTC R2990</idno>
+            <idno type="EEBO-CITATION">99872245</idno>
+            <idno type="PROQUEST">99872245</idno>
+            <idno type="VID">156124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156124)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The latest remarkable truths from Worcester, Chester, Salop, Warwick, Stafford, Somerset, Devon, Yorke, and Lincoln counties. Most of which was sent up poste from judicious men, of purpose to be printed. Among other things there is a cruell and bloody speech of the Lord Paulets, which he spake to his fellow souldiers in Sherbourne the 7. of September, wherein he gives them order to kill men, women, and children, without mercie, but to reserve such ministers as they could take that were well-wishers to the Parliament, for to be flead alive, and such like exquisite torments.</title>
+                  <author>Winchester, John Paulet, Earl of, 1598-1675.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Vnderhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156124:1" rendition="simple:additions"/>
+            <p>The Lateſt Remarkable Truths FROM <hi>Worceſter, Cheſter, Salop, Warwick, Stafford, Somerſet, Devon, Yorke,</hi> and <hi>Lincoln</hi> Counties.</p>
+            <p>Moſt of which was ſent up Poſte from judicious men, of purpoſe to be Printed.</p>
+            <p>Among other things there is a cruell and bloody Speech of the Lord <hi>Paulets,</hi> which he ſpake to his fellow ſouldiers in <hi>Sherbourne</hi> the 7. of <hi>September,</hi> wherein he gives them order to kill men, wo<g ref="char:EOLhyphen"/>men, and children, without mercie, but to re<g ref="char:EOLhyphen"/>ſerve ſuch Miniſters as they could take that were well-wiſhers to the Parlia<g ref="char:EOLhyphen"/>ment, for to be flead alive, and ſuch like exquiſite torments.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>7<hi rend="sup">ber</hi> 29</add> 
+               <hi>LONDON, Printed for</hi> T. Vnderhill. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dispatches">
+            <pb facs="tcp:156124:2"/>
+            <div type="part">
+               <opener>
+                  <dateline>Birmingham <date>Sept. 24. 1642.</date>
+                  </dateline>
+               </opener>
+               <p>PRince <hi>Robert</hi> came Sep. 23. about 9, or 10. of the clock into <hi>Wor<g ref="char:EOLhyphen"/>ceſter,</hi> as is thought to fetch away thoſe Forces that lay at Wor<g ref="char:EOLhyphen"/>ceſter much endangered by the Lord Generalls forces approa<g ref="char:EOLhyphen"/>ching neere the City: about ten Troops, under the command of Colonel <hi>Browne,</hi> with about two or three hundred Dragooners, drawn from an advantagious plot of ground, where they had pitched ſafely, to prevent (as is thought) the Cavaliers flight, were fiercely aſſaulted at great diſadvantage, with all P. <hi>Roberts</hi> Forces, ſuppoſed to be ſtrong 5000. horſe, they valiantly charged againſt the Cavaliers, had a cruell and bloody fight till it came to ſwords point; Col: <hi>Fines</hi> himſelfe rode up to their chiefe Commander, thruſt his Piſtoll to his belly, diſcharged and ſlew him out<g ref="char:EOLhyphen"/>right: Lord JOHN is thought to be ſlaine or deſperately wounded, and ſo carried away in a coach, Prince <hi>Robert</hi> is reported to be ſhot through the thigh, but it is not certain, the Parliaments Forces being farre too weake were forced to retreat: The Lo: Generall his Forces being not come in, and ſome of them retreated into Worceſter with the Cavaliers, and being diſcovered in the ſtreetes of that City, they had another bitter skirmiſh in the ſtreetes where divers were ſlaine. The Cavaliers came into the City wofully mangled and bloody, ſome having their eares cut off, ſome with the fleſh of their heads, ſome with their very skulls alſo hanging downe, their Piſtols and Carbines ſtocks being hacked away which they held up for the guard of their heads.</p>
+               <p>About 10. of the clock at night, all P. <hi>Roberts</hi> forces fled over the bridge towards Ludlow, with many malignants of the City with them, both men, women, and children, and made Captaine <hi>Wingate</hi> (whom they took pri<g ref="char:EOLhyphen"/>ſoner) to ride before them in their flight, naked.</p>
+               <p>This 24. day about 10. of the clock in the morning, his excellence poſſeſ<g ref="char:EOLhyphen"/>ſed himſelf of the City, which ere this, had moſt of it been laid in the duſt, had not the Rogues quitted the City, his Excel: being ready for a battery.</p>
+               <p>The Townſmen certainly affirme that 22. of our ſide are ſlaine, whom they have buried, have found no more for preſent dead, many are ſore woun<g ref="char:EOLhyphen"/>ded, Col: <hi>Sands</hi> and Col: <hi>Brown,</hi> wounded among others. Mauy of theirs are killed, but I cannot heare of a certaine number.</p>
+               <p>The Cavaliers ragged regiment dare not ſtand battaile upon any equall termes, they have left divers arms behind them, it is thought all they tooke fro<g ref="char:cmbAbbrStroke">̄</g> Kiderminſter and Beudley or more, they diſarmed Worceſter before they ran away, but Worceſter ſet upon the rear of the Dragooners in the flight, &amp; diſarmed them again.</p>
+               <pb n="3" facs="tcp:156124:2"/>
+               <p> The Cavaliers in Shropſhire and all other places where they come diſ<g ref="char:EOLhyphen"/>arme all Townes and families well affected to the Parliament, plundering their houſes moſt lamentablely, carrying away &amp; ſpoyling all their goods, terrifying the inhabitants extreamely, &amp; driving them to fly for their lives, taking many priſoners, and they have liſts of the names of all active per<g ref="char:EOLhyphen"/>ſons whom they ſeiſe upon, and do moſt miſchiefe unto; Papiſts and Ma<g ref="char:EOLhyphen"/>lignants houſes, generally ſcape their cruelty. If a running army be not rai<g ref="char:EOLhyphen"/>ſed to run as faſt as they, the whole Kingdome is in great danger ſuddain<g ref="char:EOLhyphen"/>ly to be run over.</p>
+               <p>Prince <hi>Roberts</hi> Army moſt part conſiſts of Papiſts, who deale moſt cru<g ref="char:EOLhyphen"/>elly with all good men and Miniſters, and all that have oppoſed the com<g ref="char:EOLhyphen"/>miſſion of Array.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Namptwich, <date>Sept. 24.</date>
+                  </dateline>
+               </opener>
+               <p>The Commiſſioners of Aray in <hi>Cheſhire,</hi> met upon munday laſt at an houſe on the Forreſt of <hi>Delamere,</hi> and as we heare they com<g ref="char:EOLhyphen"/>bined together by an oath of ſecreſie to plunder and diſarme the town of Nampt witch, which they have done by the aſſiſtanc of about 1500. horſe which came from Draiton to meet them, under the command of the Lord <hi>Grandiſon.</hi> The inhabitants of the town having cer<g ref="char:EOLhyphen"/>taine intelligence of what they intended againſt them, preſently aſſembled, in conſultation, to take a courſe, for ſecuring of themſelves, and immediatly ſent meſſengers to the Gentry and towns abroad, to ſee what aſſiſtance they would ſend, who formerly had couenanted to aſſiſt the towne (as a place of great conſequence) if neceſſitie required, and one meſſenger going to Sir <hi>Thomas Delues</hi> 3. miles from the town, to acquaint him with the ſtate thereof, and intreating his aid formerly promiſed, he returned anſwer, he could not ſpare one man, for he muſt look to him ſelf, and within two hours after he came by the towne ryding to Cheſter, but left his arms in his own houſe, which the next day after without any reſiſtance were taken away by the Cavalires, Sir <hi>Richard Wilbraham</hi> was forward for our helpe in ſending vs armes, and his men abroad to bring in the Countrie, which care had he exerciſed in due time, ſtanding againſt the commiſſioners of Aray, when by the reſt of the gentrie he was with all importunitie preſt thereunto, the town and countie had never come to that deplorable con<g ref="char:EOLhyphen"/>dition. M. <hi>Vernon,</hi> a braue Gentelman, and a great patriot of our countrie, was the moſt forward man of all: had he come in half an hour ſooner we had held it out againſt all that aſſailed us. Cap: <hi>Croxon</hi> was the greateſt ſtrength, and very reſolute to defend the town. M. <hi>Clutton,</hi> an actiue Gent: was reſolved to fight it out, and diſarmed the underſherifes man, who came from
+<pb n="4" facs="tcp:156124:3"/>the Cavaliers, who would not heare talke of any parlie, but gave expreſſe command to the towneſmen of his own company to give fire as ſoon as the Caveliers ſhould come within ſhot, and not to admit of any parlie, but other Gent. of the towne perſwaded the contrarie, leſt it ſhould be fired: where upon they came to parley. The Lord <hi>Grandiſon,</hi> and the Lord <hi>Chol<g ref="char:EOLhyphen"/>moudelcy</hi> engaged their honors, that noe man ſhould be hurt, nor any armes or goods taken from any man, but onely deſired that the armes might be laid up in the church or the town hall till they heard further from the King: whereupon the towne was given up, but they diſhonourably broake their engagement, ſeizing upon their armes ſo ſoone as they entred the town, ſearching up and down for armes, and men, threatning many, and purſue<g ref="char:EOLhyphen"/>ing them that fled, many tooke the river to eſcape them, they ſtopt the paſ<g ref="char:EOLhyphen"/>ſages of the town, to be revenged of them within it, rid up and down the gardens to finde them out and impriſoned many, then they plundred the towne, and all the countrie, which now lyes open for a prey to a perfidi<g ref="char:EOLhyphen"/>ous enemy, conducted and ſtrengthned by them of the Aray to all ſuch pla<g ref="char:EOLhyphen"/>ces, where they have bin moſt ſerviceable to King and Parliament, if ſpeedie help come not, we ſhall be vtterly deſolate. This intelligence is from many eye-witneſſes.</p>
+               <div type="section">
+                  <head>That malignant partie is further ſtrengthened by theſe forces, of which this is a true liſt.</head>
+                  <p>THe Earle <hi>Rivers</hi> hath five peeces of Ordnance, 10. barrels of powder, and 60. bullets landed at Frodſham Sep 17. The Lord <hi>Strange</hi> Sep. 19. brought 2000. men, and 2. Troops of Horſe to Warrington, and are there bili<g ref="char:EOLhyphen"/>ted for 8. dayes, and hath 11. peeces of Ordnance, beſides tis reported he expects 3000. men out of Cumberland, <hi>Weſtmerland,</hi> and <hi>Northumberland.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Taunton in Somerſetſhire, <date>Sept. 18.</date>
+                  </dateline>
+               </opener>
+               <p>THe beginning of this weeke the E. of Bath was in Devonſhire about the Commiſſion of Array; the firſt Town wee came to (the name whereof I have forgot) he (not daring to go in) ſent a brave Cavalier to the Towne to finde how it ſtood, where the women ſo paid him for his paines, that he ſcarce returned with any skin on his face. The ſecond Town he went to was Moulton, where he ſent ſtore of venizon, pretending his comming was to feaſt and make merry, but his intentions being diſ<g ref="char:EOLhyphen"/>covered , the women beſet his houſe and forced him with much adoe to make an eſcape and leave his roſt. On munday laſt the Marqueſſe and Ca<g ref="char:EOLhyphen"/>valiers left Sherbourne and are gone to Minyard a ſea Town neere Wales, and the next paſſage from thence to Ireland, they troubled all the Coun<g ref="char:EOLhyphen"/>treyes in their paſſages, in ſo much that on tueſday night all the ſhop<g ref="char:EOLhyphen"/>windowes
+<pb n="5" facs="tcp:156124:3"/>here were ſhut, every man Armd and the Towne guarded.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Taunton, <date>Sept. 25.</date>
+                  </dateline>
+               </opener>
+               <p>Yeſterday the E. of Bedford came with about 500. horſe, ſome troopes went towards Minyard the laſt night at 12. of the clock, the reſt goe to day with divers Dragooners and Foot from other parts, and here are pre<g ref="char:EOLhyphen"/>parations for war, all this countrey over, as if it were to be the ſeat of war. I could not conveniently write unto you ſooner, having been very buſie in all the late ſervice about Sherbourne, in which God hath graciouſly preſer<g ref="char:EOLhyphen"/>ved me, though I was imployed in the Front of our Army, when we gave them the firſt onſet. I have here ſent you the Lord <hi>Paulets</hi> unparallel'd bloody ſpeech to his ſouldiers, which you may publiſh if you pleaſe. Thus praying God to bleſſe you, and be a wall of fire about you, and that good great City, the Magazine of our Kingdom, I reſt, <hi>Your truly loving friend.</hi>
+               </p>
+               <div type="postscript">
+                  <p>
+                     <hi>Poſtſcript.</hi> It is now reported by meſſengers from Minyard, that the great ones are eſcaped in a flat boat, and left all the common ſouldiers and am<g ref="char:EOLhyphen"/>munition behind them.</p>
+               </div>
+            </div>
+         </div>
+         <div type="speech">
+            <head>The Lord <hi>Paulets</hi> Speech to his Souldiers at Sherbourne, on Wedneſday before the fight, being the ſeventh of Septemb. <hi>1642.</hi>
+            </head>
+            <p>FEllow ſouldiers, our Spies are returned with news ſo good as that I can ſcarce find in my heart to wiſh for better, our adverſaries be<g ref="char:EOLhyphen"/>ing ſo naked in a defencable condition as that I do as certainly aſſure my ſelfe of victory, as if an Angel from heaven had fortold it. The Earle droops and is exceeding melancholly for theſe undeſerved Ielouſies, &amp; rumours, with which my ſubtile inſtruments have filled the heads of his ſouldiers. Their Collonels and Captains that looked ſo high at their ſetting out againſt us, are now creſt-falne; their ſouldiers are moſt ſtolne home, and thoſe which yet ſtay behind, are poſſeſſed ra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her with a double ſtupidity then ſecurity, looking ſo ſleepily, as if they could be content to have their throats cut. To avoid any farther trouble, they are not like to be put to a ſecond beleaguring of us. Their numbers are few, and thoſe too decrea<g ref="char:EOLhyphen"/>ſing every day and houre by hundreds, that if we make not the more haſte; we ſhall not have a conſiderable company on whom to exerciſe our revenge. Their ſpirits and courage are quite loſt and broken, in ſo much that I am afraid we ſhall hardly meet with much ſhew of reſiſtance, to make our attempts ſeeme valiant. I may very well ſpare all arguments of encouragement, when I compare your valorous reſolution with their weak<g ref="char:EOLhyphen"/>neſſe and cowardice: onely I ſhall intreat you to obſerve theſe following
+<pb n="6" facs="tcp:156124:4"/>directions in and after the victory: Give quarter to none that weares the ſword, no not to the Earle himſelfe; deafen your eares, and harden your hearts againſt all cryes and prayers for mercie: But if you meet with any of their Clergie, reſerve them for more exquiſite torments, and a lingring death; I intend to have them flead alive. But if any of you can finde a more tormenting and weightier puniſhment, I ſhall give place unto it. Be favourable to the towne and townſmen of <hi>Yeavel,</hi> for they are moſt of them our well-wiſhers. As for the Round-heads that are among them, they ſhall be to morrow ſingled out for the ſlaughter. But when you come to the Puritanicall Townes, <hi>Taunton, Chard, Crukchorne, Briſtoll, Dorche<g ref="char:EOLhyphen"/>ſter,</hi> and <hi>Exon;</hi> then let your ſwords cruell it without difference of age, ſex or degree. Some muſt fall to make up the number, as ſome the prey. Let thoſe three Counties of <hi>Somerſet, Dorſet,</hi> and <hi>Devon,</hi> be fatted with the bloud and dunged with the carkaſes of the inhabitants, that they may not make head againſt us. I am even raviſhed with delight, when I conſider the renowned glory, great plenty, rare pleaſure, rich and brave booties that court you. There is not the meaneſt ſouldier among you, but ſhall have more wealth then he can tame or overcome; more choice and delicate booties then the great Turke hath in his <hi>Seraglios.</hi> Theſe things will in<g ref="char:EOLhyphen"/>vite you beyond any eloquence of mine. Therefore deare hearts comfort your hearts with this, that you are able to looke them dead.</p>
+         </div>
+         <div type="dispatches">
+            <div type="part">
+               <opener>
+                  <dateline>Coventry in Warwick-ſhire, <date>Sept. 17.</date>
+                  </dateline>
+               </opener>
+               <p>HIs Majeſty advancing into Staffordſhire, ſent two or three troops of horſe, came to Killing worth Caſtle to conduct thoſe ſouldiers that were there, (under the command of Serjant major <hi>Willis</hi>) unto His Maje<g ref="char:EOLhyphen"/>ſties other Forces: Our Coventry Soldiers having notice hereof made haſte to give them an onſet, but the rogues were got paſt Coleſ I ere they could reach them, and then ſuch as could go faſteſt on horſeback, which were not above 30. rid amain, overwent their foot, and adventured ſtoutly, ile not ſay deſperately, to aſſault the other army. Serjeant Major <hi>Willis,</hi> ſeeing the force ſo ſmall that came to encounter them, gave order that the Carriages and foote ſhould march forward, and they with their horſe (though well wea<g ref="char:EOLhyphen"/>ried) would give battaile to Coventry horſe, as indeede they did to our griefe, for beſides the priſoners they took, which were three or four, and men they wounded which were two, (one whereof lies at Curdworth, yet I thinke alive,) our men were forced to retreat, which made the adverſe party inſult notably, and unleſſe men did by miraculous faith beleeve that God would deſtroy their adverſaries with Rams hornes, I know not what
+<pb n="7" facs="tcp:156124:4"/>ſhould put ſuch boldneſſe into them. They got two or three horſes from their adverſaries, ſome ſay alſo a priſoner or two, but the major body of the Killingworth Army with their Carriage which was in foure wagons came ſafe to Tamworth, and after one dayes reſt went from thence, in one of which Cap: <hi>Scudamore</hi> lay, (ſuch ſtate his friends put upon him) he was wounded at Coventry ſiege, and is very like to periſh therewith.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Walſall in Staffordſhire, <date>Sept. 24.</date>
+                  </dateline>
+               </opener>
+               <p>MAſter <hi>Comberford</hi> of Tamworth ſent three or foure cart loads of goods and Ammunition, with many cattle lately towards Dud<g ref="char:EOLhyphen"/>ly Caſtle for ſafety, but Birmingham men having notice hereof ſeiſed upon them: This <hi>Comberford</hi> is a great malignant, this and other things makes Birmingham extreamely threatned. Some Cavaliers were lately apprehen<g ref="char:EOLhyphen"/>ded here at Walfall for indeavouring to levie ſouldiers, for which dread<g ref="char:EOLhyphen"/>full menaces are denounced againſt us alſo. The Rebels have taken and plundered Namptwich, Sir <hi>Wil: Brerton,</hi> that worthy patriot of his Country, his houſe is pillaged and ſeven or eight horſes taken from him. So is the Lady <hi>Bromlyes</hi> reverend Parſon <hi>Fiſhers,</hi> Mr. <hi>Charlton</hi> an excellent Gent: Mr. <hi>Rawley</hi> of Rawley by P. <hi>Robert,</hi> and divers others, which makes good people fly apace.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Kendall in Weſtmerland.</dateline>
+               </opener>
+               <p>THe Commiſſioners of Array are ready here to put their Commiſſion in execution, but dare not for fear of the Country, for our Country ſtands cloſe to their Petition and Proteſtation.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Lancaſhire, <date>Sept. 23.</date>
+                  </dateline>
+               </opener>
+               <p>THere came under command of Cap: <hi>Legs</hi> brother 3000. Muſquetiers of horſeback, and much powder and ſhot from New-Caſtle through this County to go to Cheſter, which the Countrey was not able to make ſtay of, having no forces. The Lord <hi>Strange</hi> hath drawne his Forces to Waringdon, being about 2500. and intends to go and pillage Mancheſter, he hath compelled his tenants to pay 3. yeares rent beforehand, for to ſup<g ref="char:EOLhyphen"/>port the King in this ſervice, inſomuch that poore men are forced to ſell their Cattaile and goods to pay it. Mancheſter keepes a ſtrong watch night and day, ſome places being plundered neere them by Sir <hi>Francis Wortley,</hi> and other Cavaliers as <hi>Knutsford, Oldham,</hi> &amp;c. The Lo: <hi>Strange</hi> drawes along with him the traine bands, but ſore againſt their wills.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Cheſter, <date>Sept. 24.</date>
+                  </dateline>
+               </opener>
+               <p>THe King having left his Army, bilited about Shrewsbury, came to White church upon Friday, and was welcommed into the County of Cheſter, by the Lo: <hi>Rivers,</hi> L. <hi>Chamley,</hi> and Sir <hi>Thomas Aſton,</hi> and then
+<pb n="8" facs="tcp:156124:5"/>went towards Cheſter with two Troops, being his guard, beſides Sir <hi>Tho: Aſtons</hi> Troop, and the Mayor, Aldermen, and Recorder <hi>Brerewood,</hi> received him into Cheſter in great pomp, preſenting him ith 200. l. and the Prince with 100. l. The Court is kept at the Biſhops houſe. The next Tueſday His Majeſty intends to depart from this City towards Rixam, thence to Elſ<g ref="char:EOLhyphen"/>more, and ſo back to Shrewsbury. He hath impriſoned ſome of our Noble Gent: for obeying the Parliament. Before the King came out of Shrop<g ref="char:EOLhyphen"/>ſhire, he ſent downe the River Severne 6. peeces of Ordnance to Bridge<g ref="char:EOLhyphen"/>north to ſecure that place, but it is hoped that the Lord Generall will in good time take that place, and thoſe Peeces, and <hi>Shrewsbury</hi> to boot.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Yorkeſhire, <date>Sept. 24.</date> by a ſpeciall Poſte.</dateline>
+               </opener>
+               <p>THe honeſt part of our Gentry and Commonalty now begin to pluck up their ſpirits, make head againſt the Parliaments Forces, have re<g ref="char:EOLhyphen"/>ceived many men and Armes from Sir <hi>Iohn Hotham,</hi> whoſe ſon commands them: They have choſe the Lord <hi>Fairefax</hi> their chiefe Commander, and their Army daily increaſeth: They have taken ſome very ſtrong holds al<g ref="char:EOLhyphen"/>ready for the ſervice of the Parliament, and reſolve to ſeize upon all the Parliaments enemies in all the Countie, whereupon Sir <hi>William Savile</hi> and many other malignants are fled to <hi>Pomfret</hi> Caſtle for refuge.</p>
+               <p>In Lincolneſhire alſo the Lord <hi>Willoughby</hi> of <hi>Parham,</hi> the Earle of Lin<g ref="char:EOLhyphen"/>colne, and many others, make head, joyne their Troops together, and intend to joyne with <hi>Yorkeſhire,</hi> whereby it is hoped through Gods great goodnes all the North part of England will be ſhortly ſecured for the King and Parliament.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
